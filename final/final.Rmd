@@ -1,7 +1,7 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "Uluslararası mutluluk farklılıkları"
 author: 
-  - İsim Soyisim[^1]
+  - ABDULLAH BARUT[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa-tr.csl
 header-includes:
@@ -25,7 +25,7 @@ urlcolor: blue
 fontsize: 12pt
 biblio-style: apalike
 abstract: |
-  Bu bölümde çalışmanızın özetini yazınız.
+  Gelir farklılıkları, uluslararası refah düzeylerindeki değişkenliğin temel nedenlerinden biridir. Birçok çalışmada, bir ülkenin gelir düzeyinin artmasıyla refah ve gelişmişlik düzeylerinin de yükseldiğini göstermektedir. Bu bağlamda, bireylerin yaşam doyumları üzerindeki etkisiyle toplum genelinde bir yansıması söz konusu olmaktadır. Amaç ne kadar sosyal yardımlar ve bunları finanse etmek için gereken vergiler, gelir düzeylerini ve eşitsizlikleri etkiler. farklı yaş grupları. Piyasa gelir modellerinin etkisini göstermek için mikro veri ve mikro simülasyon modelleri arasında gelir dağılımına ilişkin hane yapıları ve sosyal koruma önlemleri farklı yaş grupları arasındadır. Bu modellemeler, 1990'ların sonlarından bu yana toplanan verilere dayanmaktadır. Birçok ülkede, yaşlı bireyler arasında nüfusa göre  düşük gelir oranlarının genel olarak daha yüksek olduğu gözlenmektedir. Bununla birlikte, ülkeler arası kanıtlar, sosyal dengeyi yeniden sağlamak için gelir dağılımı hedeflerinden taviz vermeden sosyal koruma harcamalarının yapılandırılabileceğini ortaya koymaktadır. Ulusun ekonomik ve sosyal kalkınması ve politikasının temel amacı olmalıdır. Ancak gelir düzeyini artırmak, bireylerin yaşam doyumunu ve dolayısıyla mutluluğunu artırmak için yeterli değildir. Mutluluk, ekonomik gelişmeyle yakından bağlantılıdır. Ekonomik kalkınmanın gerçekleşebilmesi için gelir artışının yanı sıra sosyal, kültürel ve politik alanlarda da gelişme sağlanmalıdır. Bununla birlikte, gelir artışının ve ekonomik büyümenin ekonomideki önemi vurgulanmaktadır. Bu noktada, amaç sadece geliri artırmak mı yoksa mutluluğu artırmak mı olduğu sorusu bir yaklaşım sorunu olarak karşımıza çıkmaktadır. Bu çalışmanın temel amacı, ülkeler arasındaki gelir düzeyleri ile ülke vatandaşlarının mutluluk düzeyleri arasındaki ilişkiyi araştırmaktır. Bu amaçla İnsani Gelişme Endeksi, Dünya Mutluluk Raporu ve Gayri Safi Milli Mutluluk Endeksi çerçevesinde konu ele alınmıştır. Sürdürülebilir Kalkınma Çözümleri Ağı (SDSN) tarafından hazırlanan rapor, önde gelen ekonomi ve ulusal istatistik uzmanlarının analizlerini içermekte ve öznel refah ölçümlerinin ulusal ilerlemeyi nasıl etkili bir şekilde değerlendirebileceğini açıklamaktadır. Birleşmiş Milletler'in Mutluluk ve Refah konulu üst düzey toplantısından önce 2012'de yayınlanan ilk Dünya Mutluluk Raporu, uluslararası alanda bir dönüm noktası niteliği taşıyan ve küresel mutluluk durumunu inceleyen ilk anket olarak uluslararası dikkatleri üzerine çekti. Çalışmada yüksek gelir düzeyine sahip ülkelerin refah ve mutluluk düzeylerinin daha yüksek olduğunu, ancak bu genel örüntüyü takip etmeyen bazı ülkelerin bulunduğunu gözlemlemiştir. 2019 Dünya Mutluluk Raporu, hem bireysel hem de ulusal düzeyde, duygular ve yaşam değerlendirmeleri de dahil olmak üzere tüm refah ölçütlerinin, çevreleyen sosyal normların ve kurumların kalitesinden güçlü bir şekilde etkilendiğini göstermektedir. Bu faktörler, bireysel düzeyde aile ve dostluk ilişkileri, mahalle ve toplum düzeyinde güven ve empati, aynı zamanda uluslararası ve nesiller arası yaşam kalitesini belirleyen kapsayıcı sosyal normların gücünü ve kalitesini içermektedir. Bu sosyal faktörler köklü ve hazır olduğunda, topluluklar ve milletler daha dirençlidir.
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
@@ -34,56 +34,69 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
+[^1]: 18080656, [Github Repo](https://github.com/Abdullahbarut/final_projesi)
 
-# Final Hakkında Önemli Bilgiler
-
-\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 37. SATIRINA YAZINIZ!}
-
-**Proje gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.**
-
-**Proje klasörünüzü sıkıştırdıktan sonra (`OgrenciNumarasi.zip` dosyası) 9 Haziran 2023 23:59'a kadar *ekampus.ankara.edu.tr* adresine yüklemeniz gerekmektedir.**
-
-\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
-
+ 
 # Giriş
-Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz  kaynaklara ulaşma imkanı sağlar. **Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.** Yazım konusunda @aydinonat:2007'ye başvurabilirsiniz. 
-
-
-Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir. Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
+Mutluluk, insan hayatında önemli bir yer tutar ve dünya genelinde insanların mutluluğu birçok ülke için önemli bir hedef haline gelmiştir. Ancak tüm ülkeler aynı mutluluk seviyesine
+sahip değiller ve bazı ülkeler daha mutlu ya da daha mutsuz olarak görülmektedir. Bununla birlikte, sadece mutluluğun ölçümüne odaklanmak yeterli değildir. Ülkelerin ekonomik,
+sosyal, siyasi ve kültürel faktörlerini de değerlendirmek gerekmektedir. Örneğin, ekonomik
+refah, sağlık, eğitim, adalet, özgürlük ve sosyal bağlar, mutluluğu artırmak için önemli faktörler olarak kabul edilmektedir. Günlük dilde refah, mutluluk ve memnuniyet gibi anlamlara
+taşısa da, felsefe ve psikoloji gibi teknik bağlamlarda farklı anlamlar içermektedir. Sosyal refah, bir kişinin yaşam kalitesini belirlemede yer alan faktörler veya unsurlar kümesini ifade
+eder ve nihayetinde, kişinin barışçıl bir varoluştan mahrum bırakılmadan, barışçıl bir varoluş sürdürmesine izin verir. Bu faktörler, ekonomik, sosyal ve kültürel yönleri içermekte
+olup, hemen hemen aynı şekilde etki gösterirler. Refahın adil bir biçimde sağlanabilmesi için
+dünyanın her yerindeki insanların hayata kalabilmesi için sosyal koruma altında bulunması
+gerekmektedir. Bazı ülkelerde, insanlar hayatlarını sürdürebilmeleri için gerekli olan temel
+ihtiyaçlara sahip değillerdir. Kimi yiyecek bulamazken kimi da sağlık, eğitim gibi temel ihtiyaçlardan yoksun kalmaktadırlar.Uluslararası mutluluk farklılıkları konusu, farklı ülkelerin
+farklı faktörlerle mutluluk seviyelerini nasıl etkilediğini ve mutluluğu artırmak için neler
+yapabileceğimizi anlamamıza yardımcı olacaktır.
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+Dünya genelindeki ülkelerin mutluluk seviyeleri, gelir düzeyleri, eğitim seviyeleri, sağlık koşulları, sosyal faktörler ve kültürel farklılıklar gibi birçok değişkeni içermektedir. Bu veriler,
+istatistiksel analiz yöntemleri kullanılarak işlenerek farklı ülkelerin mutluluk seviyelerini etkileyen faktörlerin belirlenmesine yardımcı olabilir. Genel olarak, düşük bir gelir seviyesinin
+mutsuzluğa yol açacağı veya mutluluğun gelir seviyesi arttıkça aynı oranda artacağı beklentisi çalışmamızın sonucu olarak alınmıştır. Ancak bu görüş doğru değildir. Yüksek gelir grubuna ait ülkelerde bile mutluluk açısından yüksek puanlar alınamamaktadır. İnsani gelişme,yoksulluk, mutluluk ve bireysel refaha ilişkin verilerden hareketle, yoksul ülkeler arasında yapılan karşılaştırmalar sonucunda mutluluğun tamamen yaşam kalitesine bağlı bir olgu olarak
+değerlendirilemeyeceği sonucuna varabiliriz. Her ülkenin benimsediği refah sistemi farklıdır
+ve bireyler arasındaki ekonomik, sosyal ve cinsiyet açısından eşitsizliği gidermeyi amaçlayan
+bu hakların korunması konusunda farklı yaklaşımlar vardır. Bununla birlikte, birçok ülke
+bu hakların en az bir tanesi için benzer amaçlar taşımaktadır ve bu hakların ayrım gözetilmeksizin herkes için geçerli olması gerektiği konusunda hemfikirdir. Sonuç olarak, ülkelerin
+mutluluk seviyeleri üzerindeki etkisi incelenirken, yalnızca gelir seviyesi gibi tek bir değişkene
+odaklanmak yetersizdir. Farklı faktörlerin bir arada değerlendirilmesi gerekmektedir ve her
+ülkenin kendine özgü koşullarının dikkate alınması önemlidir.
 
 ## Literatür 
 
-Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az altı** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
+Daha İyi bir Yaşam için, vatandaşların toplumların refahını ölçme konusundaki tar- tışmalara katılmayı ve tüm yaşamlarımızı şekillendiren politika oluşturma sürecine daha bilinçli ve daha aktif olmalarını sağlamayı amaçlamaktadır. Özellikle 2000'lerden itibaren, refahın sadece gelir ile tanımlanması, bireylerin toplumların ve hatta ülkelerin gerçek refah seviyelerini yansıtmamaktadır. Bu endeks, refahı daha kapsamlı bir şekilde ele alarak, bireylerin mutlu oldukları alanları da hesaba katmaktadır. Ülkeler, bu endeks sayesinde geri kaldıkları alanları belirleyebilir ve bireylerin refahını maksimize edecek politikaları geliştirebilir.
+
+Çalışmaların büyük bir kısmı aileler ve bireyler üzerinde yoğunlaşmakta, kadının rolü ise genellikle görmezden gelinmektedir. Ancak, bu durum her devlet için geçerli değildir. Liberal rejimler, hizmet sunumunu piyasaya bırakarak cinsiyet ilişkilerine kayıtsız kalmaktadır[@wolff1992changing]. Bir deneyde, çocuklu çiftlerden oluşan benzersiz bir örneklem kullanılarak, boşanmış bireylerin evlilikten ayrıldıktan sonra ekonomik refahtaki cinsiyet farkını tahmin etmek amaçlanmıştır. Çalışan bireyler, ayrılmadan önce daha az cinsiyet farkı gördüklerini ifade etmişlerdir[@kuhn2020income]. Yaşam memnuniyeti ise hanehalkı geliri, yaş, cinsiyet, işgücü durumu ve eğitim durumu gibi faktörlerin bir fonksiyonu olarak gösterilebilir.
+
+Bireylerin mutluluk düzeylerini açıklamada kullanılabilecek faktörler arasında, sağlık durumu, kentsel farklılıklar, bireylerin yaşadıkları döneme göre bakış açıları ve umutları yer almaktadır. Bir ekonomideki bireyler, hayatlarını sürdürmek için yeterli bir gelir elde etmek için emek, sermaye veya servetleriyle üretim sürecine katılmak zorunda kalabilirler. Ancak, sağlık sorunları, sakatlık, yaşlılık veya işsizlik gibi nedenlerle yeterli bir gelir elde etmek mümkün olmayabilir ve bireyler yeterli bir servet birikimi yapamayabilirler. Bu nedenle, devlet, kendi kusurları olmaksızın geçimlerini tamamen ya da kısmen sağlayamayan bireylerin yeterli bir gelire kavuşmalarını sağlayan yeniden dağıtım tedbirlerini almak zorundadır. Ekonomik süreç içerisinde fonksiyonel gelir dağılımı ile ilk olarak ortaya çıkan gelir, brüt gelirdir. Bu amaçla, devlet, gelir eşitsizliğini azaltmak için vergi sistemi ve sosyal güvenlik politikaları gibi tedbirler alır. Böylece, bireylerin yaşam memnuniyeti artar ve mutluluk düzeyleri yükselir[@kahyaouglu2008yacsam].
+
+Kapitalist ekonomik sistem, yüksek gelir eşitsizliği gibi bazı sorunlarla karşı karşıya kalmaktadır ve bu sorunlar, zaman zaman insanların muhtaç durumda kalmasına neden olabilmektedir. Bu nedenle, refah devleti, gelir eşitsizliğini azaltmak ve insanlara onurlu bir yaşam sağlamak amacıyla ortaya çıkmıştır. Refah devleti, devletin müdahalesini gerektiren bir yapıya sahiptir ve muhtaç durumda kalan vatandaşlara en azından asgari yaşam standartı sağlamayı ve sosyal adaleti sağlamayı hedefler. Sosyal refah devleti uygulamaları, tüm ülkelerde dar anlamda uygulanmaktadır. Ancak geniş anlamda uygulamalar, daha kapsamlı bir yapı gerektirir ve geniş kaynaklar aktarılması gerekmektedir. Bu nedenle, bu çalışmada Türkiye'nin refah devleti uygulamalarının kapsamı ve etkinliği incelenmektedir. Mevcut eksikliklerin kaynakları ve planlanan gelişmeler açıklanarak, Türkiye'nin sosyal refah devleti uygulamalarında hangi noktalarda başarılı olduğu ve hangi alanlarda iyileştirme yapılması gerektiği ele alınmaktadır[@rakici2011refah].
 
 # Veri 
-Bu bölümde çalışmanızda kullandığınız veri setinin kaynağını, ham veri üzerinde herhangi bir işlem yaptıysanız bu işlemleri ve veri seti ile ilgili özet istatistikleri tartışınız. Bu bölümde tüm değişkenlere ait özet istatistikleri (ortalama, standart sapma, minimum, maksimum, vb. değerleri) içeren bir tablo (Tablo \ref{tab:ozet}) olması zorunludur. Tablolarınıza gerekli göndermeleri bir önceki cümlede gösterildiği gibi yapınız. [@perkins:1991]
+ bu çalışmada incelediğimiz veri seti kaynağı data.world sitesinden alınmıştır.Bu belge farklı yaş gruplarının ekonomik refahını nicelendirerek ve başarı düzeylerini ölçerek analiz etmektedir.kamu ve özel kaynaklardan elde edilen gelire dayanmaktadır. Ayrıca, sosyal yardımlar ve bunları finanse etmek için vergiler ve sosyal katkılar gibi faktörler sosyal yardımları etkilemektedir. farklı yaş grupları arasındaki gelir düzeylerini ve eşitsizlikleri de incelemektedir. Ekonomik ve sosyal gelişmenin sağlanması güvenliğin temel politika hedefi olmalıdır. Bu yılki araştırma, 2019 Dünya Mutluluk Raporu'nda yer alan 156 ülkenin mutluluk düzeyini incelerken, her yıl üst düzey birinci düzey küresel gündemi ilerletmeye ve dünyayı refahı içeren sürdürülebilir bir kalkınma gündemine taşımaya odaklanmaktadır.
+ 
+Sürdürülebilir Kalkınma Çözümleri Ağı (SDSN) tarafından hazırlanan rapor, önde gelen ekonomi ve ulusal istatistik uzmanlarının analizlerini içermekte ve öznel refah ölçümlerinin ulusal ilerlemeyi değerlendirmek için etkili bir şekilde nasıl kullanılabileceğini açıklamaktadır. Birleşmiş Milletler'in Mutluluk ve Refah konulu üst düzey toplantısından önce 2012 yılında yayınlanan ilk Dünya Mutluluk Raporu'na göre küresel mutluluğun durumunu inceleyen bir dönüm noktası niteliği taşımaktadır. ülke eğilimlerine, bölgesel göstergelere, cinsiyet ve yaş faktörlerine ve sosyal sermaye yatırımının önemine odaklanarak verileri daha ayrıntılı bir şekilde analiz etmektedir. Ayrıca, rapor en yüksek mutluluk düzeyine sahip olan ülkeleri belirlemektedir.2019 Dünya Mutluluk Raporu önceki raporlar gibi ülkelerin gerçek mutluluk düzeylerini değerlendiren veri eğilimlerini ortaya koymaktadır.
 
-Analize ait R kodları bu bölümde başlamalıdır. Bu bölümde veri setini R'a aktaran ve özet istatistikleri üreten kodlar yer almalıdır.
-
-```{r}
+```{r echo=FALSE}
 library(tidyverse)
-library(here)
-survey <- read_csv(here("../data/survey.csv"))
+library(readr)
+
+WHR19 <- read_csv("../data/WHR19.csv") %>% 
+   janitor::clean_names()
+
+names(WHR19) <- stringr::str_replace_all(names(WHR19), "Log_of_GDP_per_capita", "gdp")
+names(WHR19) <- stringr::str_replace_all(names(WHR19), "Healthy_life_expectancy", "lifeexpectancy")
 ```
 
-Rmd dosyasında kod bloklarının bazılarında kod seçeneklerinin düzenlendiğine dikkat edin. 
+Zaman içinde ve ülkeler arasında yıllık ulusal ortalama puanlardaki değişimin dörtte üçünün açıklandığı altı temel değişken vardır. Bu değişkenler şunlardır: kişi başına düşen reel GSYİH, sağlıklı yaşam beklentisi, yaşam seçimlerini yapma özgürlüğü algısı, yolsuzluktan uzak olma ve cömertlik(Tablo \ref{tab:ozet}).Bu yıl ilk kez Rapor verileri bölgeye göre ayırıyor. Bazıları daha önce bulunandan çok daha büyük olan çarpıcı farklılıklar bulur. Yaşamın erken evrelerinde olumlu bir bakış açısı doğal olarak arzu edilir, ancak aynı zamanda yetişkinlik döneminde daha fazla mutluluğun temelini oluşturur. Hem sosyal hem de ekonomik olarak katkıda bulunarak bağımsız, üretken ve mutlu yetişkinler olmak için büyürler. 
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, results='asis'}
 library(xtable) 
-# devtools::install_github("emraher/summarytools")
 library(summarytools)
 st_options(lang = "tr")
-```
-
-`echo=FALSE` seçeneği ile kodların türetilen pdf dosyasında görünmesini engelleyin ve sonuçlarınızı tablo halinde rapor edin.
-
-```{r results='asis', echo=FALSE}
-survey %>%
-  select("sex", "credits", "handedness", "height", "handspan") %>% 
+WHR19 %>%
+  select(where(is.numeric)) %>%
   descr(stats = c("mean", "sd", "min", "med", "max"), transpose = TRUE) %>% 
   xtable(caption = "Özet İstatistikler",
          label = "tab:ozet",
@@ -91,35 +104,35 @@ survey %>%
   print(booktabs = TRUE, comment = FALSE, caption.placement = "top")
 ```
 
+2019 Dünya Mutluluk Raporu, hem bireysel hem de ulusal düzeyde çevreleyen sosyal normların ve kurumların kalitesiyle birlikte duyguları ve yaşam değerlendirmelerini içeren tüm refah ölçütlerinin güçlü bir şekilde etkilendiğini ortaya koymaktadır. Bunlar, bireysel düzeyde aile ve dostlukları, mahalle ve topluluk düzeyinde güven ve empatinin varlığını ve uluslar ve nesiller içinde ve arasında yaşam kalitesini belirleyen kapsayıcı sosyal normların gücü ve kalitesini içerir. Bu sosyal faktörler köklü ve sağlam olduğunda, toplumlar ve ülkeler daha dayanıklı hale gelmektedir.
+
 
 # Yöntem ve Veri Analizi
-Bu bölümde veri setindeki bilgileri kullanarak çalışmanın amacına ulaşmak için kullanılacak yöntemleri açıklayın. Derste işlenen/işlenecek olan analiz yöntemlerinden (Hipotez testleri ve korelasyon analizi gibi) çalışmanın amacına ve veri setine uygun olanlar bu bölümde kullanılmalıdır. [@newbold:2003; @ozsoy:2010; @ozsoy:2014]
 
-Örneğin, regresyon analizi gerçekleştiriyorsanız tahmin ettiğiniz denklemi bu bölümde tartışınız. Denklemlerinizi ve matematiksel ifadeleri $LaTeX$ kullanarak yazınız.
+Tüm dünyadaki araştırmacılara göre, ailelerin mutluluk üzerindeki etkisi konusunda destek unsurunun önemli bir faktör olduğu tespit edilmiştir. Bu destek iki yönlü bir ilişkiyi kapsamaktadır. Bir araştırmaya göre, ebeveynlerin yaklaşık yüzde 70'i duygusal destek için çocuklarına bağımlıdır.
 
-$$
-Y_t = \beta_0 + \beta_N N_t + \beta_P P_t + \beta_I I_t + \varepsilon_t
-$$
+```{r alie, echo=FALSE, fig.align='center', fig.cap='Mutluluk ve Aile Arasındaki İlişki', fig.height=4, fig.width=8}
 
-Bu bölümde analize ilişkin farklı tablolar ve grafiklere yer verilmelidir. Çalışmanıza uygun biçimde histogram, nokta grafiği (Şekil \@ref(fig:plot) gibi), kutu grafiği, vb. grafikleri bu bölüme ekleyiniz. Şekillerinize de gerekli göndermeleri bir önceki cümlede gösterildiği gibi yapınız.
+WHR19 %>% 
+  ggplot(aes(x = ladder, y = social_support)) +
+  geom_line() +
+  scale_x_continuous("Mutluluk Puanı") + 
+  scale_y_continuous("Aile")
+``` 
+Araştırmalar, birinin kendisine destek verildiğini hissetmenin, stres, depresif semptomlar ve düşük özgüven gibi olumsuz etkilere karşı koruyucu bir faktör olduğunu göstermektedir.Kardeş ilişkileri, duygusal esenlik için özellikle önemlidir. Bir ankette, katılımcıların yüzde 60’ından fazlası kardeşlerinin en iyi arkadaşları olduğunu söyledi. Evrimsel biyologlar, bu durumun genetik paylaşıma dayanabileceğini, bu yüzden insanların yakınlık hissine yatkın olduğunu ve buna olumlu bir tepki verdiklerini söylemektedirler[@Salynn2008]. Ancak, geçmişe bağlı olarak, ailenin mutluluğa katkısında bazı farklılıklar gözlenebilir. Grafiğe bakıldığında, aile bağlarının güçlü olduğu ülkelerin genellikle en yüksek mutluluk skorlarına sahip olduğu görülmektedir(Şekil \@ref(fig:alie)).
 
+ 
 
-```{r plot, fig.align='center', fig.cap='Muhteşem Bir Grafik'}
-survey %>% 
-  ggplot(aes(x = handedness, y = handspan)) +
-  geom_point() +
-  geom_smooth() +
-  scale_x_continuous("Handedness") + 
-  scale_y_continuous("Handspan")
-```
+ 
+ 
 
 
 # Sonuç
-Bu bölümde çalışmanızın sonuçlarını özetleyiniz. Sonuçlarınızın başlangıçta belirlediğiniz araştırma sorusuna ne derece cevap verdiğini ve ileride bu çalışmanın nasıl geliştirilebileceğini tartışınız.
 
-**Kaynakça bölümü Rmarkdown tarafından otomatik olarak oluşturulmaktadır. Taslak dosyada Kaynakça kısmında herhangi bir değişikliğe gerek yoktur.** 
+Gelir artışının ekonomik gelişme ve kalkınmanın belirleyici faktörü olarak uzun yıllar boyunca kabul edilmesine rağmen, davranışsal iktisat alanındaki gelişmeler ve bu konunun gerçekten önemli olup olmadığını anlamak için yapılan çalışmalar, gelirin geleneksel tanımından uzaklaşmış ve insanlık gelişimi, refah düzeyinin artırılması ve nihayetinde mutluluğa ulaşmak için gereken bir bileşen olmaktan çıkmıştır. Gelirin doğası ve mutluluğa etkisi konusundaki çalışmalar, sosyal bilimciler için bir yol gösterici olarak umut verici sonuçlar sunmaktadır. Örneğin, bir toplumda tedavisi zor hastalıklara yakalanan bireylerin sayısı arttıkça, GSYİH sağlık hizmetleri üretimini artıracağından yükselecektir; ancak toplumun genel refahı kötüleşecektir. Yaşam beklentisi ve gerçekleşen refah skorlarının adil bir şekilde dağılıp dağılmadığını gözlemleyerek oluşturulan bir ölçüm olan bu çalışmalar, eşitsizlik yüzdesi olarak ifade edilen sonuçları sunmaktadır. Çıktı eşitsizliği ölçütü, ortalama yaşam doyumu ve ortalama gerçekleşmiş refah ile eşitsizlik düzeltilmiş yaşam doyumu ve eşitsizlik düzeltilmiş refah arasındaki farkın yüzdesi olarak ifade edilmektedir. Mutluluğun doğasını anlamak için yapılan çalışmalar sonucunda, uluslararası ekonomik kuruluşlar tarafından bazı ölçüm yöntemleri geliştirilmiştir ve bu ölçümler sonucunda en yüksek gelire sahip olan ülkeler her zaman en mutlu ülkeler olarak sınıflandırılmamaktadır.Bu bağlamda denilebilir ki mutluluğun üzerinde anlaşmaya varılmış genel geçer bir tanımı ve yaklaşımı yoktur. 
 
-**_Taslakta bu cümleden sonra yer alan hiçbir şey silinmemelidir._**
+
+ 
 
 \newpage
 # Kaynakça {#references}
